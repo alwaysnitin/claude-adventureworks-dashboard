@@ -1,9 +1,0 @@
-Create a Executive Sales Summary Dashboard.  
-Following KPI's
-Total Revenue
-Total Orders
-Total Profit
-Total Margin
-Total Customers
-
-Total SKU's I want the cuts by country, geography, customer, category, sub category, I want Top 5 products, Bottom 5 Products on Revenue and Orders.
